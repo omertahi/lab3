@@ -1,1 +1,1 @@
-# STAT-450
+# STAT 450 Lab 3
